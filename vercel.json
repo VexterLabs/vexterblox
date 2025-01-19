@@ -4,4 +4,6 @@
       "runtime": "vercel-php@0.5.3"
     }
   }
+    "outputDirectory": "public",
+  "public": true
 }
